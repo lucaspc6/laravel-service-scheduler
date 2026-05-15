@@ -31,15 +31,15 @@ The application focuses on managing service scheduling data using Laravel’s de
 
 ## Tech Stack
 
-- **PHP**
-- **Laravel**
-- **Blade**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Laravel Routing**
-- **Laravel MVC Structure**
-- **Database configuration through Laravel**
+- PHP
+- Laravel
+- Blade
+- HTML
+- CSS
+- JavaScript
+- Laravel Routing
+- Laravel MVC Structure
+- Database configuration through Laravel
 
 ---
 
