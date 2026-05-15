@@ -1,31 +1,61 @@
 # Laravel Service Scheduler
 
-Sistema web desenvolvido em Laravel para gerenciamento de agendamentos de serviços, com funcionalidades de cadastro, consulta, atualização e exclusão de registros.
+Laravel Service Scheduler is a web application built with Laravel to manage service scheduling records through basic CRUD operations.
 
-## 📌 Sobre o Projeto
+The project follows Laravel’s conventional MVC structure and includes the standard application layers for routes, controllers, views, database configuration, public assets, and application storage.
 
-Este projeto foi desenvolvido com o objetivo de praticar a construção de uma aplicação web utilizando Laravel, seguindo o padrão MVC e implementando operações CRUD para gerenciamento de serviços/agendamentos.
+> The latest project version is maintained in the `v6` branch.
 
-## 🚀 Funcionalidades
+---
 
-- Cadastro de registros
-- Listagem de registros
-- Consulta de informações
-- Atualização de dados
-- Exclusão de registros
-- Organização em estrutura MVC do Laravel
+## Overview
 
-## 🛠️ Tecnologias Utilizadas
+This project was developed to practice building a Laravel web application with a structured backend, routing, database interaction, and CRUD-based data management.
 
-- PHP
-- Laravel
-- Blade
-- MySQL ou SQLite
-- HTML
-- CSS
-- JavaScript
+The application focuses on managing service scheduling data using Laravel’s default project organization.
 
-## 📂 Estrutura do Projeto
+---
+
+## Features
+
+- Create service scheduling records
+- List existing records
+- View registered data
+- Update existing records
+- Delete records
+- Laravel-based routing structure
+- MVC-oriented project organization
+- Database-ready Laravel structure
+
+---
+
+## Tech Stack
+
+- **PHP**
+- **Laravel**
+- **Blade**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Laravel Routing**
+- **Laravel MVC Structure**
+- **Database configuration through Laravel**
+
+---
+
+## Architecture
+
+The project follows Laravel’s standard MVC architecture:
+
+- **Models** handle application data structure and database interaction.
+- **Controllers** handle request flow and business logic.
+- **Routes** define application endpoints.
+- **Views** render the user interface.
+- **Database files** support migrations and data persistence structure.
+
+---
+
+## Project Structure
 
 ```text
 app/
@@ -37,3 +67,4 @@ resources/
 routes/
 storage/
 tests/
+.editorconfig
