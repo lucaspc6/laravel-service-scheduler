@@ -4,7 +4,7 @@ Laravel Service Scheduler is a web application built with Laravel to manage serv
 
 The project follows Laravel’s conventional MVC structure and includes the standard application layers for routes, controllers, views, database configuration, public assets, and application storage.
 
-> The latest project version is maintained in the `v6` branch.
+> The latest project version is maintained in the `v6` branch...
 
 ---
 
